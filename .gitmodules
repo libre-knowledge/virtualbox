@@ -7,3 +7,8 @@
 #
 # Copyright 2024 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
+[submodule "Ansible Role: VirtualBox"]
+	path = Ansible Role: VirtualBox
+	url = https://gitlab.com/mapanare-labs/ansible/ansible-role-virtualbox.git
+	ignore = dirty
+	shallow = true
